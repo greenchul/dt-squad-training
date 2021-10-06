@@ -11,3 +11,7 @@
 `git remote add upstream [URL OF THIS REPO (NOT YOUR FORK)]` - will add an upstream repo that will be synced with your fork
 5. Open the repo `code .`
 6. Add your name to contributors.md
+7. Stage file `git add .`
+8. Commit files `git commit -m"TYPE A MEANINNGFUL MESSAGE HERE EG: 'ADDED NAME TO CONTRIBUTORS.MD'"`
+9. Push changes to YOUR remote repo `git push origin master`
+10. Headover to original repo page and click the green pull request button
