@@ -1,6 +1,6 @@
 # dt-squad training repo!
 
-## Get started
+## Get started :boom:
 
 1. fork this repo (top right hand side)
 2. clone this repo to your computer
