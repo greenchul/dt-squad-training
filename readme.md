@@ -15,3 +15,21 @@
 8. Commit files `git commit -m"TYPE A MEANINNGFUL MESSAGE HERE EG: 'ADDED NAME TO CONTRIBUTORS.MD'"`
 9. Push changes to YOUR remote repo `git push origin master`
 10. Headover to original repo page and click the green pull request button
+
+
+## helpful tips
+
+### using the terminal
+
+cd - change directory
+
+ls - list files
+
+ls -a list files inc hidden files
+
+mkdir DIRNAME - make directory
+
+touch FILENAME - create a file
+
+pwd - print working directory
+
