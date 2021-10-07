@@ -3,7 +3,7 @@
 ## Get started :boom:
 
 1. fork this repo (top right hand side)
-2. clone this repo to your computer
+2. clone the forked repo to your computer
 `git clone URL`
 3. Navigate in to the cloned repo
 4. Set up upstream
